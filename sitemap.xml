@@ -1,34 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
   <url>
     <loc>https://spo-lia.fr/</loc>
-    <priority>1.0</priority>
   </url>
-
   <url>
-    <loc>https://spo-lia.fr/A-propos.html</loc>
-    <priority>0.8</priority>
+    <loc>https://spo-lia.fr/a-propos.html</loc>
   </url>
-
   <url>
-    <loc>https://spo-lia.fr/Approche.html</loc>
-    <priority>0.9</priority>
+    <loc>https://spo-lia.fr/approche.html</loc>
   </url>
-
   <url>
-    <loc>https://spo-lia.fr/Expertises.html</loc>
-    <priority>0.9</priority>
+    <loc>https://spo-lia.fr/expertises.html</loc>
   </url>
-
   <url>
-    <loc>https://spo-lia.fr/Réalisations.html</loc>
-    <priority>0.9</priority>
+    <loc>https://spo-lia.fr/realisations.html</loc>
   </url>
-
   <url>
     <loc>https://spo-lia.fr/contact.html</loc>
-    <priority>0.7</priority>
   </url>
-
 </urlset>
